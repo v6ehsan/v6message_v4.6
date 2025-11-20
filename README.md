@@ -1,6 +1,6 @@
 # 💜 V6_MESSAGE – Global Sequential HUD Display
 
-**Version:** 4.6  
+**Version:** 1.0  
 **Developer:** V6 EHSAN
 ---
 
